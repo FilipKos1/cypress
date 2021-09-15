@@ -1,0 +1,6 @@
+{
+    "baseUrl": "https://cloud-demo.uniqcast.com:50443/#/",
+    "ignoreTestFiles": "**/2-advanced-examples/*",
+    "viewportHeight": 1080,
+    "viewportWidth": 1920
+}
